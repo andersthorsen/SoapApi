@@ -68,3 +68,13 @@ E:\Source\SoapApi\SoapApi.Tests\bin\Debug\System.Web.Http.Owin.xml
 E:\Source\SoapApi\SoapApi.Tests\obj\Debug\SoapApi.Tests.pdb
 E:\Source\SoapApi\SoapApi.Tests\bin\Debug\Soap11RequestSample.xml
 E:\Source\SoapApi\SoapApi.Tests\bin\Debug\Soap12RequestSample.xml
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\Soap11RequestSample.xml
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\Soap12RequestSample.xml
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\SoapApi.Tests.dll.config
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Source\SoapApi\SoapApi.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Source\SoapApi\SoapApi.Tests\obj\Debug\SoapApi.Tests.csproj.App.config

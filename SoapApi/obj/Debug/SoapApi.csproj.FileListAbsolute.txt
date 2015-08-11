@@ -1,6 +1,5 @@
 C:\Source\SoapApi\SoapApi\bin\Debug\SoapApi.dll
 C:\Source\SoapApi\SoapApi\bin\Debug\SoapApi.pdb
-C:\Source\SoapApi\SoapApi\bin\Debug\Newtonsoft.Json.dll
 C:\Source\SoapApi\SoapApi\bin\Debug\System.Net.Http.Formatting.dll
 C:\Source\SoapApi\SoapApi\bin\Debug\System.Web.Http.dll
 C:\Source\SoapApi\SoapApi\bin\Debug\System.Web.Http.WebHost.dll
@@ -25,3 +24,5 @@ E:\Source\SoapApi\SoapApi\obj\Debug\SoapApi.csprojResolveAssemblyReference.cache
 E:\Source\SoapApi\SoapApi\obj\Debug\SoapApi.dll
 E:\Source\SoapApi\SoapApi\obj\Debug\SoapApi.pdb
 E:\Source\SoapApi\SoapApi\bin\Debug\Owin.dll
+C:\Source\SoapApi\SoapApi\bin\Debug\Newtonsoft.Json.dll
+C:\Source\SoapApi\SoapApi\bin\Debug\Owin.dll
