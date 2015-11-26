@@ -1,16 +1,13 @@
-﻿using System.Runtime.Serialization;
-using System.Web.Http;
+﻿using Microsoft.AspNet.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace SoapApi.Tests.Controllers
 {
-    [DataContract(Namespace = "http://www.w3schools.com/webservices/")]
-    public class CelsiusToFahrenheit
-    {
-        [DataMember]
-        public string Celsius { get; set; }
-    }
-
-    public class TestController : ApiController
+    [Route("api/[controller]")]
+    public class TestController : Controller
     {
         [HttpPost]
         public string CelsiusToFahrenheit([FromBody] CelsiusToFahrenheit obj)
